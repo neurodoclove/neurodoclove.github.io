@@ -1,6 +1,6 @@
 # Welcome to neurodoclove's collection of notion widgets
 
-Here are the widget contained within this collection along with their live tweakable versions in codepen.
+Here are the widgets contained within this collection along with their live tweakable versions in codepen.
 
 - Deadline Widget (Shows days)
   - https://codepen.io/neurodoclove/pen/gOXxbWV
