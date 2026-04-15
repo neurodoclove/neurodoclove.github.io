@@ -1,12 +1,7 @@
-# Welcome to neurodoclove's collection of notion widgets
+# Bit About Dr. Love
 
-Here are the widgets contained within this collection along with their live tweakable versions in codepen.
+Dr. Love is a neuroscientist who has spent her career exploring mechanisms that have gone awry, in the brain and in the ways science reaches those who need it most. In the laboratory, she explores the mechanisms that confer 
+risk to develop psychiatric disorders.  In the field, she focuses on finding 
+ways to translate scientific discovery into clinical practice.
 
-- Deadline Widget (Shows days)
-  - https://codepen.io/neurodoclove/pen/gOXxbWV
-
-- Deadline Widget (Shows days, hours, minutes, seconds)
-  - https://codepen.io/neurodoclove/pen/ExbvbVj
-
-- Choose someone for stand-up robot (Choosie)
-  -  https://codepen.io/neurodoclove/pen/vYWYQew
+She's a technophile, but on her days off, you'll probably find her backpacking far off the grid away from her beloved machines.

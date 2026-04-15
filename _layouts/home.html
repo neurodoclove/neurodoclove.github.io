@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <!-- Banner -->
+    <section id="banner" class="major">
+        <div class="inner">
+            <header class="major">
+                <h1>{{ page.landing-title }}</h1>
+            </header>
+            <div class="content">
+                <p style="text-transform: uppercase;">{{ site.description }}</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- One -->
+        {% include tiles.html %}
+
+        <!-- Two -->
+        <section id="two">
+            <div class="inner">
+                <header class="minor">
+                    <h2>TL;DR</h2>
+                        <p> Dr. Love is a neuroscientist who has spent her career exploring mechanisms 
+                            that have gone awry, in the brain and in the ways science reaches those who 
+                            need it most. In the laboratory, she explores the mechanisms that confer 
+                            risk to develop psychiatric disorders.  In the field, she focuses on finding 
+                            ways to translate scientific discovery into clinical practice.</p>
+                            <p> She's a technophile, but on her days off, you'll probably find her backpacking 
+                                far off the grid away from her beloved machines.
+                            </p>
+                </header>
+                <p>{{ content }}</p>
+              
+            </div>
+        </section>
+
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
