@@ -78,9 +78,26 @@ nav-menu: true
 </div>
 
 
+<!-- Content -->
+<h2 id="content">Canyons of Escalante, Utah</h2>
+
+<!-- Image -->
+<span class="image fit"><img src="{% link assets/images/Escalante-Main.jpg %}" alt="" /></span>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/EscalanteCanyons-1.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/EscalanteCanyons-2.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/EscalanteCanyons-3.jpg %}" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/EscalanteCanyons-4.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/EscalanteCanyons-5.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/EscalanteCanyons-6.jpg %}" alt="" /></span></div>
+	</div>
+</div>
+
 
 <!-- Content -->
-<h2 id="content">Escalante, Utah</h2>
+<h2 id="content">Deserts of Escalante, Utah</h2>
 
 <!-- Image -->
 <span class="image fit"><img src="{% link assets/images/Escalante-Main.jpg %}" alt="" /></span>
