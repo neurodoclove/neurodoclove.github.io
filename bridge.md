@@ -43,7 +43,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Building and crossing bridges</h3>
 				</header>
-				<p>As Director of Care Redesign for the Brain and Behavior Innovation Center (BBICEN), Dr. Love takes on projects which are focused the logistics of mental health care delivery. She focuses on how to effectively move treatments out of the lab and into the clinic, ensuring they actually reach the patients they were created for and do so at scale. Her work aims to accelerate healthcare transformation by uncovering smarter, more efficient ways to optimize how mental health services are actually delivered.</p>
+				<p>As Director of Care Redesign at the Brain and Behavior Innovation Center (BBICEN), Dr. Love focuses on making mental health care work better for patients. She is dedicated to moving effective treatments out of the lab and into the hands of the people who need them most.</p>
 				<ul class="actions">
     				<li><a href="assets/files/LoveT-Web2026.pdf" class="button" download>Learn More</a></li>
 				</ul>
